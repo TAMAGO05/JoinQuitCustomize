@@ -1,0 +1,9 @@
+name: JoinQuitCustomize
+main: Sakudama\JoinQuitCustomize\Main
+version: 2.0.1
+api: 3.0.0
+mcpe-protocol: 390
+load: POSTWORLD
+author: Sakudama
+description: 入室・退出のいろいろな設定を変更できるプラグインです
+website: https://forum.mcbe.jp/resources/455/
